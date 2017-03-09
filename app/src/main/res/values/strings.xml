@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Juego_Bolas_Isidro</string>
+    <string name="menu_titulo">Juego de las bolas</string>
+    <string name="menu_jugar">Jugar</string>
+    <string name="menu_acerca">AcercaDe</string>
+    <string name="creditos_desarrollador">Desarrolado por:</string>
+    <string name="desarrollador_nombre">Isidro Sotoca Estruch</string>
+    <string name="creditos_version">V1.0</string>
+</resources>
